@@ -20,7 +20,7 @@ public MyClass {
 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
- <img src="https://profile-counter.glitch.me/MR-DIPTO-404/count.svg" />
+ <img src="https://profile-counter.glitch.me/MR-DIPTO-143/count.svg" />
 
 </p>
 
@@ -43,10 +43,6 @@ public MyClass {
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - 👑 𝐋𝐎𝐕𝐄𝐑:- PYTHON 
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 👑 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
